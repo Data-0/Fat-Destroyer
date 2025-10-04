@@ -1,0 +1,8 @@
+C:\Users\grebe\Downloads\TLD Mods to Edit\TLD Ruined Fat Destroyer Mod\bin\Release\net6.0\RuinedFatDestroyer.deps.json
+C:\Users\grebe\Downloads\TLD Mods to Edit\TLD Ruined Fat Destroyer Mod\bin\Release\net6.0\RuinedFatDestroyer.dll
+C:\Users\grebe\Downloads\TLD Mods to Edit\TLD Ruined Fat Destroyer Mod\obj\Release\net6.0\RuinedFatDestroyer.csproj.AssemblyReference.cache
+C:\Users\grebe\Downloads\TLD Mods to Edit\TLD Ruined Fat Destroyer Mod\obj\Release\net6.0\RuinedFatDestroyer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grebe\Downloads\TLD Mods to Edit\TLD Ruined Fat Destroyer Mod\obj\Release\net6.0\RuinedFatDestroyer.csproj.CoreCompileInputs.cache
+C:\Users\grebe\Downloads\TLD Mods to Edit\TLD Ruined Fat Destroyer Mod\obj\Release\net6.0\RuinedFatDestroyer.dll
+C:\Users\grebe\Downloads\TLD Mods to Edit\TLD Ruined Fat Destroyer Mod\obj\Release\net6.0\refint\RuinedFatDestroyer.dll
+C:\Users\grebe\Downloads\TLD Mods to Edit\TLD Ruined Fat Destroyer Mod\obj\Release\net6.0\ref\RuinedFatDestroyer.dll

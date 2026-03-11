@@ -3,3 +3,5 @@ This mod adds the option for the player to choose when to despawn low condition 
 Fat will be despawned everytime you change scenes. Any fat over your desired setting will remain. Doesn't prevent low condition fat from going into your inventory when harvesting from a carcass. It will despawn on a scene change though.
 
 Works on inventory fat and fat that's just laying outside.
+<img width="496" height="496" alt="Fat destroy" src="https://github.com/user-attachments/assets/6a178fee-56d8-4c86-a1e6-52f8e0cce52d" />
+
